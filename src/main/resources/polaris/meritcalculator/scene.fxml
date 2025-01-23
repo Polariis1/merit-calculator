@@ -33,7 +33,7 @@
             </rowConstraints>
             <children>
                 <!-- Top row, column 1 -->
-                <TextField editable="false" prefHeight="385.0" prefWidth="546.0" GridPane.columnIndex="1" />
+                <TextField fx:id="summaryTextField" editable="false" prefHeight="385.0" prefWidth="546.0" GridPane.columnIndex="1" />
                 <!-- Top row, column 0 -->
                 <Pane prefHeight="356.0" prefWidth="345.0">
                     <children>
@@ -67,5 +67,6 @@
                 </Pane>
             </children>
         </GridPane>
+      <Button layoutX="748.0" layoutY="34.0" mnemonicParsing="false" onAction="#readFromJsonFile" text="TEST BUTTON" />
     </children>
 </AnchorPane>

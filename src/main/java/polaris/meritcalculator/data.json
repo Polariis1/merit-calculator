@@ -1,0 +1,17 @@
+{
+  "extraMerit": 2,
+  "courses": {
+    "course1": [
+      {
+        "points": 100,
+        "grade": "C"
+      }
+    ],
+    "course2": [
+      {
+        "points": 150,
+        "grade": "B"
+      }
+    ]
+  }
+}

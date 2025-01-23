@@ -1,0 +1,16 @@
+Krav:
+    Tydligt GUI
+    Lägga till kurs
+    Ta bort kurs
+    Visa kurser
+    Visa aktuellt meritvärde
+    Kurs som egen klass
+    Fint strukturerad kod
+    Lämpliga metoder
+    Extra meritpoäng
+
+Högre nivå:
+    Spara kurserna till fil
+    Möjlighet att öppna fil
+    Smarta lösningar (för att t.ex. lagra kurser, lägga till/ta bort kurser och beräkna meritvärde)
+    Hantera möjliga exekveringsfel via GUI och i metoder
